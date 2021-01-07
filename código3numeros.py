@@ -1,4 +1,4 @@
-Esse programa vai selecionar entre 3 números#Programa para verificar 3 números em Python
+#Programa para verificar 3 números em Python
 
 
 numero = input('Digite um número ')
